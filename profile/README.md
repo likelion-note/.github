@@ -39,7 +39,7 @@ Django · Python
       <img src="" width="100px" alt="김다인">
     </td>
     <td>
-      <img src="https://github.com/dalsudang.ㅔㅜㅎ" width="100px" alt="서유진">
+      <img src="https://github.com/dalsudang.png" width="100px" alt="서유진">
     </td>
     <td>
       <img src="https://github.com/jayanjiyo.png" width="100px" alt="안지요">
