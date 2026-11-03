@@ -33,7 +33,7 @@ Django · Python
 
   <tr align="center">
     <td>
-      <img src="" width="100px" alt="방세현">
+      <img src="https://github.com/banggly.png" width="100px" alt="방세현">
     </td>
     <td>
       <img src="" width="100px" alt="김다인">
@@ -57,7 +57,7 @@ Django · Python
 
   <tr align="center">
     <td>
-      <a target="_blank" href="">방세현</a>
+      <a target="_blank" href="https://github.com/banggly">방세현</a>
     </td>
     <td>
       <a target="_blank" href="">김다인</a>
